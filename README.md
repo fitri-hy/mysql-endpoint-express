@@ -1,4 +1,4 @@
-# MySQL Conecctionn ExpressJS
+# MySQL Conecction ExpressJS
 
 Connecting ExpressJS to MySQL and creating an API Endpoint.
 
