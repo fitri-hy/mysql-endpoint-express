@@ -2,6 +2,8 @@
 
 Connecting ExpressJS to MySQL and creating an API Endpoint.
 
+<img src="./Screenshot.png" />
+
 ## NPM Installation
 ```sh
 git clone https://github.com/fitri-hy/mysql-endpoint-express.git
