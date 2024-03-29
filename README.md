@@ -4,6 +4,8 @@ Connecting ExpressJS to MySQL and creating an API Endpoint.
 
 ## NPM Installation
 ```sh
+git clone https://github.com/fitri-hy/mysql-endpoint-express.git
+cd mysql-endpoint-express
 npm i mysql-endpoint-express
 ```
 
@@ -27,7 +29,7 @@ node index.js`
 
 ## Testing Endpoint
 Open in browser: `http://localhost:3000/api`
-
+<hr/>
 
 Don't forget to give stars
 Follow Me: <a href="https://hy-tech.my.id/">FOLLOW</a>
