@@ -1,5 +1,7 @@
 # MySQL Conecction ExpressJS
 
+[v1.3] ADDMethod Operation Created, Read, Update, & Delete.
+
 Connecting ExpressJS to MySQL and creating an API Endpoint.
 
 <img src="./Screenshot.png" />
@@ -24,7 +26,7 @@ DB_DATABASE=
 require('mysql-endpoint-express');
 ```
 
-## Run
+## Run Server
 ```
 node index.js`
 ```
