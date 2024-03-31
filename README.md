@@ -1,7 +1,12 @@
 # MySQL Conecction ExpressJS
-
-[v1.3] ADD Method Operation Created, Read, Update, & Delete.
 Connecting ExpressJS to MySQL and creating an API Endpoint.
+
+V1.0.5
+[ADD] Set request CORS in .env
+V1.0.3
+[ADD] Method Operation Created, Read, Update, & Delete
+V1.0.2
+[FIX] Cors Request
 
 <img src="./Screenshot.png" />
 
