@@ -19,6 +19,10 @@ DB_PORT=3000
 DB_USER=
 DB_PASSWORD=
 DB_DATABASE=
+
+ALLOWED_ORIGIN='*'
+ALLOWED_METHODS='GET, POST, PUT, DELETE'
+ALLOWED_HEADERS='Content-Type, Authorization'
 ```
 ## Implementation index.js
 ```
