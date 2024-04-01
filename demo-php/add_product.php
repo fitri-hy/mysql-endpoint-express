@@ -3,8 +3,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $url = 'http://localhost:5000/api/product';
 
     $data = array(
-        'product_name' => $_POST['product-name'],
-        'product_price' => $_POST['product-price']
+        'product_name' => $_POST['product_name'],
+        'product_price' => $_POST['product_price']
     );
 
     $options = array(
