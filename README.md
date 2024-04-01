@@ -1,6 +1,8 @@
 # MySQL Conecction ExpressJS
 Connecting ExpressJS to MySQL and creating an API Endpoint.
 
+<img src="Screenshot.png" />
+
 ### V1.0.6
 [ADD] Role Statement
 ### V1.0.5
