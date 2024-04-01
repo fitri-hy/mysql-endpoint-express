@@ -12,8 +12,6 @@ Connecting ExpressJS to MySQL and creating an API Endpoint.
 ### V1.0.2
 [FIX] Cors Request
 
-<img src="./Screenshot.png" />
-
 ## NPM Installation
 ```sh
 git clone https://github.com/fitri-hy/mysql-endpoint-express.git
