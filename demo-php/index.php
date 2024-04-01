@@ -94,10 +94,10 @@
 <h2>Add New Product</h2>
 <form method="post" action="add_product.php">
     <label for="product-name">Product Name:</label>
-    <input type="text" id="product-name" name="product-name" required><br><br>
+    <input type="text" id="product-name" name="product_name" required><br><br>
     
     <label for="product-price">Product Price:</label>
-    <input type="text" id="product-price" name="product-price" required><br><br>
+    <input type="text" id="product-price" name="product_price" required><br><br>
     
     <button type="submit">Add Product</button>
 <div id="product-list">
