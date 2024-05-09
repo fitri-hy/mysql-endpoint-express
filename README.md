@@ -1,5 +1,5 @@
 # MySQL Conecction ExpressJS
-Connecting ExpressJS to MySQL and creating an API Endpoint.
+Connecting ExpressJS to MySQL and creating an API Endpoint Automations.
 
 <img src="Screenshot.png" />
 
